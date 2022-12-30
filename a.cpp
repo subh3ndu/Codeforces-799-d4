@@ -4,7 +4,6 @@ using namespace std;
 typedef long long ll;
 
 // A. Marathon
-// Author: venom_61
 
 void solve() {
     int a, b, c, d;
